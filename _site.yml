@@ -1,10 +1,13 @@
-name: "my-website"
+name: "dylfitt_blog"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Dylan Fitt"
+  type: inverse
   left:
     - text: "Home"
       href: index.html
+    - text: "Posts"
+      href: post.html
     - text: "About"
       href: about.html
 output:
