@@ -1,33 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on A Hugo website</title>
+    <title>Tags on TeXify</title>
     <link>http://localhost:4321/tags/</link>
-    <description>Recent content in Tags on A Hugo website</description>
+    <description>Recent content in Tags on TeXify</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
-    <atom:link href="http://localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <managingEditor>dnelsonfitt@gmail.com (Dylan Fitt)</managingEditor>
+    <webMaster>dnelsonfitt@gmail.com (Dylan Fitt)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="http://localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Plot</title>
       <link>http://localhost:4321/tags/plot/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <author>dnelsonfitt@gmail.com (Dylan Fitt)</author>
       <guid>http://localhost:4321/tags/plot/</guid>
+      
       <description></description>
+      
     </item>
+    
     <item>
       <title>R Markdown</title>
       <link>http://localhost:4321/tags/r-markdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <author>dnelsonfitt@gmail.com (Dylan Fitt)</author>
       <guid>http://localhost:4321/tags/r-markdown/</guid>
+      
       <description></description>
+      
     </item>
+    
     <item>
       <title>Regression</title>
       <link>http://localhost:4321/tags/regression/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <author>dnelsonfitt@gmail.com (Dylan Fitt)</author>
       <guid>http://localhost:4321/tags/regression/</guid>
+      
       <description></description>
+      
     </item>
+    
   </channel>
 </rss>
