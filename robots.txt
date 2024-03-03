@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://dylfitt.github.io/sitemap.xml
+Sitemap: http://localhost:4321/sitemap.xml
