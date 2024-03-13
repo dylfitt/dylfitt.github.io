@@ -3,3 +3,6 @@
 #wrapper {
     font-family: 'Latin Modern Roman', 'Times New Roman', 'Noto Serif SC', serif;
 }
+.caption {
+    font-style: italic;
+}

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Regression on Notes of a Roundabout Enthusiast</title>
-    <link>https://dylfitt.github.io/tags/regression/</link>
+    <link>http://localhost:4321/tags/regression/</link>
     <description>Recent content in Regression on Notes of a Roundabout Enthusiast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>dnelsonfitt@gmail.com (Dylan Fitt)</managingEditor>
     <webMaster>dnelsonfitt@gmail.com (Dylan Fitt)</webMaster>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://dylfitt.github.io/tags/regression/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="http://localhost:4321/tags/regression/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello R Markdown</title>
-      <link>https://dylfitt.github.io/2020/12/01/hello-r-markdown/</link>
+      <link>http://localhost:4321/2020/12/01/hello-r-markdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       <author>dnelsonfitt@gmail.com (Dylan Fitt)</author>
-      <guid>https://dylfitt.github.io/2020/12/01/hello-r-markdown/</guid>
+      <guid>http://localhost:4321/2020/12/01/hello-r-markdown/</guid>
       
       <description>
 
@@ -52,7 +52,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://dylfitt.github.io/2020/12/01/hello-r-markdown/index_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;http://localhost:4321/2020/12/01/hello-r-markdown/index_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;

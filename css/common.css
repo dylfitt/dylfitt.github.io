@@ -106,6 +106,10 @@ time {
     margin-top: 2rem;
 }
 
+.caption {
+    font-style: italic;
+}
+
 ::-webkit-scrollbar {
     background-color: #FAFAFA;
     height: 8px;
@@ -134,7 +138,7 @@ time {
 
 @media screen and (min-width: 768px) {
     #header > h1 {
-        font-size: 2rem;
+        font-size: 1.9rem;
     }
 }
 

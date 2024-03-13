@@ -94,6 +94,10 @@
     text-align: justify;
 }
 
+.caption {
+    font-style: italic;
+}
+
 .content pre {
     background-color: #F5F5F5!important;
     border-radius: .2rem;

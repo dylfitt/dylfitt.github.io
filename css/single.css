@@ -6,6 +6,10 @@
     padding-top: 1rem;
 }
 
+.caption {
+    font-style: italic;
+}
+
 #main > .warning {
     background-color: brown;
     color: white;

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transportation on Roundabout Reflections</title>
+    <link>https://dylfitt.github.io/tags/transportation/</link>
+    <description>Recent content in Transportation on Roundabout Reflections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>dnelsonfitt@gmail.com (Dylan Fitt)</managingEditor>
+    <webMaster>dnelsonfitt@gmail.com (Dylan Fitt)</webMaster>
+    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dylfitt.github.io/tags/transportation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My History with Transportation</title>
+      <link>https://dylfitt.github.io/2024/03/11/my-history-with-transportation/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <author>dnelsonfitt@gmail.com (Dylan Fitt)</author>
+      <guid>https://dylfitt.github.io/2024/03/11/my-history-with-transportation/</guid>
+      
+      <description>
+&lt;script src=&#34;https://dylfitt.github.io/2024/03/11/my-history-with-transportation/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://dylfitt.github.io/2024/03/11/my-history-with-transportation/index_files/jquery/jquery-3.6.0.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://dylfitt.github.io/2024/03/11/my-history-with-transportation/index_files/leaflet/leaflet.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://dylfitt.github.io/2024/03/11/my-history-with-transportation/index_files/leaflet/leaflet.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://dylfitt.github.io/2024/03/11/my-history-with-transportation/index_files/leafletfix/leafletfix.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://dylfitt.github.io/2024/03/11/my-history-with-transportation/index_files/proj4/proj4.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://dylfitt.github.io/2024/03/11/my-history-with-transportation/index_files/Proj4Leaflet/proj4leaflet.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://dylfitt.github.io/2024/03/11/my-history-with-transportation/index_files/rstudio_leaflet/rstudio_leaflet.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://dylfitt.github.io/2024/03/11/my-history-with-transportation/index_files/leaflet-binding/leaflet.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;I’ve started to realize how &lt;em&gt;nice&lt;/em&gt; it is to take the bus. During my growing-up years it was difficult to imagine anything other than driving, but now that I’ve spent time in other places I have seen the benefits of walking, biking, and taking public transit. The places that I have lived have affected the way I think about transportation, so I wanted to write a somewhat cursory analysis of my experience with transportation.&lt;/p&gt;
+&lt;div id=&#34;bishop-california&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Bishop, California&lt;/h2&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:unnamed-chunk-1&#34;&gt;&lt;/span&gt;
+&lt;div class=&#34;leaflet html-widget html-fill-item&#34; id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:480px;&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;options&#34;:{&#34;crs&#34;:{&#34;crsClass&#34;:&#34;L.CRS.EPSG3857&#34;,&#34;code&#34;:null,&#34;proj4def&#34;:null,&#34;projectedBounds&#34;:null,&#34;options&#34;:{}}},&#34;calls&#34;:[{&#34;method&#34;:&#34;addTiles&#34;,&#34;args&#34;:[&#34;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&#34;,null,null,{&#34;minZoom&#34;:0,&#34;maxZoom&#34;:18,&#34;tileSize&#34;:256,&#34;subdomains&#34;:&#34;abc&#34;,&#34;errorTileUrl&#34;:&#34;&#34;,&#34;tms&#34;:false,&#34;noWrap&#34;:false,&#34;zoomOffset&#34;:0,&#34;zoomReverse&#34;:false,&#34;opacity&#34;:1,&#34;zIndex&#34;:1,&#34;detectRetina&#34;:false,&#34;attribution&#34;:&#34;&amp;copy; &lt;a href=\&#34;https://openstreetmap.org/copyright/\&#34;&gt;OpenStreetMap&lt;\/a&gt;,  &lt;a href=\&#34;https://opendatacommons.org/licenses/odbl/\&#34;&gt;ODbL&lt;\/a&gt;&#34;}]}],&#34;setView&#34;:[[37.3631,-118.3983],10,[]]},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: A map of Bishop, California
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Growing up in a rural area meant that driving a car was a fact of life.
+I got my driver’s license as soon as I turned 16 because without it, I would have been stranded.
+I lived in a small town (with a population of less than 2,000 people) about 15 miles away from the nearby small city of Bishop (with a population of approximately 13,000 people).
+Everywhere that I needed to go was in Bishop, so I drove.
+I actually enjoyed the 15-minute drive most days, as there were few people on the highway and there were rarely any delays.
+Nearly everyone that I knew drove to where they wanted to go.
+There were a few notable exceptions, like my friend that rode his bike about three miles to school almost daily, and one acquaintance that took the bus from my small town to go to Bishop.
+However, these exceptions were few and far between.
+Driving was the predominant mode then, and it remains so now.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;puebla-méxico-and-surrounding-cities&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Puebla, México and surrounding cities&lt;/h2&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:unnamed-chunk-2&#34;&gt;&lt;/span&gt;
+&lt;div class=&#34;leaflet html-widget html-fill-item&#34; id=&#34;htmlwidget-2&#34; style=&#34;width:100%;height:480px;&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-2&#34;&gt;{&#34;x&#34;:{&#34;options&#34;:{&#34;crs&#34;:{&#34;crsClass&#34;:&#34;L.CRS.EPSG3857&#34;,&#34;code&#34;:null,&#34;proj4def&#34;:null,&#34;projectedBounds&#34;:null,&#34;options&#34;:{}}},&#34;calls&#34;:[{&#34;method&#34;:&#34;addTiles&#34;,&#34;args&#34;:[&#34;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&#34;,null,null,{&#34;minZoom&#34;:0,&#34;maxZoom&#34;:18,&#34;tileSize&#34;:256,&#34;subdomains&#34;:&#34;abc&#34;,&#34;errorTileUrl&#34;:&#34;&#34;,&#34;tms&#34;:false,&#34;noWrap&#34;:false,&#34;zoomOffset&#34;:0,&#34;zoomReverse&#34;:false,&#34;opacity&#34;:1,&#34;zIndex&#34;:1,&#34;detectRetina&#34;:false,&#34;attribution&#34;:&#34;&amp;copy; &lt;a href=\&#34;https://openstreetmap.org/copyright/\&#34;&gt;OpenStreetMap&lt;\/a&gt;,  &lt;a href=\&#34;https://opendatacommons.org/licenses/odbl/\&#34;&gt;ODbL&lt;\/a&gt;&#34;}]},{&#34;method&#34;:&#34;addMarkers&#34;,&#34;args&#34;:[18.96562,-98.17299,null,null,null,{&#34;interactive&#34;:true,&#34;draggable&#34;:false,&#34;keyboard&#34;:true,&#34;title&#34;:&#34;&#34;,&#34;alt&#34;:&#34;&#34;,&#34;zIndexOffset&#34;:0,&#34;opacity&#34;:1,&#34;riseOnHover&#34;:false,&#34;riseOffset&#34;:250},&#34;San Francisco Totimehuacán, where I lived for 3 months&#34;,null,null,null,null,{&#34;interactive&#34;:false,&#34;permanent&#34;:false,&#34;direction&#34;:&#34;auto&#34;,&#34;opacity&#34;:1,&#34;offset&#34;:[0,0],&#34;textsize&#34;:&#34;10px&#34;,&#34;textOnly&#34;:false,&#34;className&#34;:&#34;&#34;,&#34;sticky&#34;:true},null]},{&#34;method&#34;:&#34;addMarkers&#34;,&#34;args&#34;:[18.8915698,-98.436153,null,null,null,{&#34;interactive&#34;:true,&#34;draggable&#34;:false,&#34;keyboard&#34;:true,&#34;title&#34;:&#34;&#34;,&#34;alt&#34;:&#34;&#34;,&#34;zIndexOffset&#34;:0,&#34;opacity&#34;:1,&#34;riseOnHover&#34;:false,&#34;riseOffset&#34;:250},&#34;Atlixco, where I lived for 3 months&#34;,null,null,null,null,{&#34;interactive&#34;:false,&#34;permanent&#34;:false,&#34;direction&#34;:&#34;auto&#34;,&#34;opacity&#34;:1,&#34;offset&#34;:[0,0],&#34;textsize&#34;:&#34;10px&#34;,&#34;textOnly&#34;:false,&#34;className&#34;:&#34;&#34;,&#34;sticky&#34;:true},null]},{&#34;method&#34;:&#34;addMarkers&#34;,&#34;args&#34;:[18.7879451,-98.4830764,null,null,null,{&#34;interactive&#34;:true,&#34;draggable&#34;:false,&#34;keyboard&#34;:true,&#34;title&#34;:&#34;&#34;,&#34;alt&#34;:&#34;&#34;,&#34;zIndexOffset&#34;:0,&#34;opacity&#34;:1,&#34;riseOnHover&#34;:false,&#34;riseOffset&#34;:250},&#34;Cacaloxúchitl, where I lived for almost 4 months&#34;,null,null,null,null,{&#34;interactive&#34;:false,&#34;permanent&#34;:false,&#34;direction&#34;:&#34;auto&#34;,&#34;opacity&#34;:1,&#34;offset&#34;:[0,0],&#34;textsize&#34;:&#34;10px&#34;,&#34;textOnly&#34;:false,&#34;className&#34;:&#34;&#34;,&#34;sticky&#34;:true},null]}],&#34;setView&#34;:[[18.8553,-98.3215],11,[]],&#34;limits&#34;:{&#34;lat&#34;:[18.7879451,18.96562],&#34;lng&#34;:[-98.4830764,-98.17299]}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 2: A map of Puebla, México and surrounding cities
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;My thoughts on driving probably started to change while I served a mission for two years in Puebla, Mexico and Dallas, Texas.
+While living in Mexico, I never had access to a car (or even a bike, for that matter).
+Most of my transportation in the cities of Atlixco and Cacaloxúchitl was done in &lt;em&gt;combis&lt;/em&gt;, which are small buses the size of 15-passenger vans.
+These vans, while never comfortable, were at least fast, frequent, and fairly cheap.
+A long distance trip at that time was usually around 24 pesos (about $1.25), while a short distance was anywhere from 10-20 pesos ($0.55-1.05).
+I grew to love how easy it was to move around cities in Mexico in these crowded little buses.
+When I wasn’t taking the &lt;em&gt;combis&lt;/em&gt;, I was walking.
+Because of the nature of my time there, I walked probably 3-5 miles on the average day.
+Many of the smaller towns were laid out on an easy-to-understand grid system, like Cacaloxúchitl, which facilitated walking.
+In Puebla and Atlixco I just had to learn how to get from place-to-place on foot.
+I did notice, however, that drivers typically expected lots of pedestrians as many people ride the &lt;em&gt;combis&lt;/em&gt; and walk to get from place to place.&lt;/p&gt;
+&lt;p&gt;Puebla definitely had the most advanced public transit system out of any of the cities I lived in while in Mexico.
+The official transit provider in the city of Puebla and in some outlying communities is the &lt;a href=&#34;http://ruta.puebla.gob.mx/&#34;&gt;Red Urbana de Transporte Articulado&lt;/a&gt; (RUTA).
+They operate three main transit lines that branch out from the center of the city, along with many supplementary routes.
+While living near Puebla, whenever I needed to go into the city I would catch one of the &lt;em&gt;rutas alimentadoras&lt;/em&gt;, or feeder routes, which took me to the terminal of Line 3.
+I then took Line 3, which is a modern BRT line, into the city.
+The BRT lines run by RUTA are fast, reliable, and fairly cheap.
+The fare is 7.50 pesos, which is less than $0.50 today.
+There were no &lt;em&gt;combi&lt;/em&gt; routes with stops directly at RUTA stops, although there were a few where the &lt;em&gt;combis&lt;/em&gt; stopped within about a quarter mile of major RUTA stops.
+I suspect that there is some sort of rule prohibiting the operators of the &lt;em&gt;combi&lt;/em&gt; lines from stopping near RUTA bus stops.&lt;/p&gt;
+&lt;p&gt;Overall, I was impressed with the public transit in Mexico.
+While it was not usually a comfortable ride, either due to poorly furnished vans or overcrowded buses, it was cheap and mostly reliable.
+It proved to me that even the smallest towns, which Cacaloxúchitl certainly was, could still be connected by public transit to nearby cities.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;dallas-texas-and-shreveport-louisiana&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Dallas, Texas and Shreveport, Louisiana&lt;/h2&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:unnamed-chunk-3&#34;&gt;&lt;/span&gt;
+&lt;div class=&#34;leaflet html-widget html-fill-item&#34; id=&#34;htmlwidget-3&#34; style=&#34;width:100%;height:480px;&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-3&#34;&gt;{&#34;x&#34;:{&#34;options&#34;:{&#34;crs&#34;:{&#34;crsClass&#34;:&#34;L.CRS.EPSG3857&#34;,&#34;code&#34;:null,&#34;proj4def&#34;:null,&#34;projectedBounds&#34;:null,&#34;options&#34;:{}}},&#34;calls&#34;:[{&#34;method&#34;:&#34;addTiles&#34;,&#34;args&#34;:[&#34;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&#34;,null,null,{&#34;minZoom&#34;:0,&#34;maxZoom&#34;:18,&#34;tileSize&#34;:256,&#34;subdomains&#34;:&#34;abc&#34;,&#34;errorTileUrl&#34;:&#34;&#34;,&#34;tms&#34;:false,&#34;noWrap&#34;:false,&#34;zoomOffset&#34;:0,&#34;zoomReverse&#34;:false,&#34;opacity&#34;:1,&#34;zIndex&#34;:1,&#34;detectRetina&#34;:false,&#34;attribution&#34;:&#34;&amp;copy; &lt;a href=\&#34;https://openstreetmap.org/copyright/\&#34;&gt;OpenStreetMap&lt;\/a&gt;,  &lt;a href=\&#34;https://opendatacommons.org/licenses/odbl/\&#34;&gt;ODbL&lt;\/a&gt;&#34;}]},{&#34;method&#34;:&#34;addMarkers&#34;,&#34;args&#34;:[33.5996509,-95.0529203,null,null,null,{&#34;interactive&#34;:true,&#34;draggable&#34;:false,&#34;keyboard&#34;:true,&#34;title&#34;:&#34;&#34;,&#34;alt&#34;:&#34;&#34;,&#34;zIndexOffset&#34;:0,&#34;opacity&#34;:1,&#34;riseOnHover&#34;:false,&#34;riseOffset&#34;:250},&#34;Clarksville, where I lived for over 4 months&#34;,null,null,null,null,{&#34;interactive&#34;:false,&#34;permanent&#34;:false,&#34;direction&#34;:&#34;auto&#34;,&#34;opacity&#34;:1,&#34;offset&#34;:[0,0],&#34;textsize&#34;:&#34;10px&#34;,&#34;textOnly&#34;:false,&#34;className&#34;:&#34;&#34;,&#34;sticky&#34;:true},null]},{&#34;method&#34;:&#34;addMarkers&#34;,&#34;args&#34;:[33.19069,-96.63303999999999,null,null,null,{&#34;interactive&#34;:true,&#34;draggable&#34;:false,&#34;keyboard&#34;:true,&#34;title&#34;:&#34;&#34;,&#34;alt&#34;:&#34;&#34;,&#34;zIndexOffset&#34;:0,&#34;opacity&#34;:1,&#34;riseOnHover&#34;:false,&#34;riseOffset&#34;:250},&#34;McKinney, where I lived for 4 months&#34;,null,null,null,null,{&#34;interactive&#34;:false,&#34;permanent&#34;:false,&#34;direction&#34;:&#34;auto&#34;,&#34;opacity&#34;:1,&#34;offset&#34;:[0,0],&#34;textsize&#34;:&#34;10px&#34;,&#34;textOnly&#34;:false,&#34;className&#34;:&#34;&#34;,&#34;sticky&#34;:true},null]},{&#34;method&#34;:&#34;addMarkers&#34;,&#34;args&#34;:[32.9545,-96.61109999999999,null,null,null,{&#34;interactive&#34;:true,&#34;draggable&#34;:false,&#34;keyboard&#34;:true,&#34;title&#34;:&#34;&#34;,&#34;alt&#34;:&#34;&#34;,&#34;zIndexOffset&#34;:0,&#34;opacity&#34;:1,&#34;riseOnHover&#34;:false,&#34;riseOffset&#34;:250},&#34;Rowlett, where I lived for 3 months&#34;,null,null,null,null,{&#34;interactive&#34;:false,&#34;permanent&#34;:false,&#34;direction&#34;:&#34;auto&#34;,&#34;opacity&#34;:1,&#34;offset&#34;:[0,0],&#34;textsize&#34;:&#34;10px&#34;,&#34;textOnly&#34;:false,&#34;className&#34;:&#34;&#34;,&#34;sticky&#34;:true},null]},{&#34;method&#34;:&#34;addMarkers&#34;,&#34;args&#34;:[32.53429,-93.66282,null,null,null,{&#34;interactive&#34;:true,&#34;draggable&#34;:false,&#34;keyboard&#34;:true,&#34;title&#34;:&#34;&#34;,&#34;alt&#34;:&#34;&#34;,&#34;zIndexOffset&#34;:0,&#34;opacity&#34;:1,&#34;riseOnHover&#34;:false,&#34;riseOffset&#34;:250},&#34;Bossier City, where I lived for over 4 months&#34;,null,null,null,null,{&#34;interactive&#34;:false,&#34;permanent&#34;:false,&#34;direction&#34;:&#34;auto&#34;,&#34;opacity&#34;:1,&#34;offset&#34;:[0,0],&#34;textsize&#34;:&#34;10px&#34;,&#34;textOnly&#34;:false,&#34;className&#34;:&#34;&#34;,&#34;sticky&#34;:true},null]}],&#34;setView&#34;:[[32.8577,-95.1965],8,[]],&#34;limits&#34;:{&#34;lat&#34;:[32.53429,33.5996509],&#34;lng&#34;:[-96.63303999999999,-93.66282]}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 3: A map of East Texas
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Dallas, Texas had a bit of a different effect on my opinion of driving.
+For the first few months that I lived in the suburbs of Dallas, my main mode of transportation was a bike.
+For the most part, I loved riding my bike.
+In McKinney I didn’t travel very far from my apartment, so riding my bike was fairly easy.
+I usually chose to ride through residential neighborhoods rather than on larger roads so that I wouldn’t be near high speed traffic, and when I was on a larger road riding on the sidewalk was typically the best option.
+McKinney was not bad to navigate on bicycle because I didn’t have to ride along large roads very often.&lt;/p&gt;
+&lt;p&gt;In Rowlett, however, riding my bike was a bit more of a chore.
+I lived on the corner of two major roads without bicycle infrastructure, and was essentially cut off from the rest of the city by a large toll road.
+I would usually speed out of the area that my apartment was in, where I would then find myself in more reasonable places to be riding my bike.
+Again, I usually stuck to the sidewalks unless I was in a residential neighborhood.
+I did have to ride much farther in Rowlett then I ever did in McKinney, and sometimes that meant riding in some sketchy places.
+Looking back, I was definitely put into many situations where I would be uncomfortable now.
+I remember one moment where I was riding with my companion along the gutter of a high-speed frontage road, pedaling as hard and fast as my legs would allow.
+While it was fun and exciting at the time, I realize now that because I didn’t have a car, there were many places to which I shouldn’t have been able to ride.&lt;/p&gt;
+&lt;p&gt;The rest of my time in Texas I had a car, which seemed to be necessary when I was living in the tiny town of Clarksville.
+While I didn’t leave Clarksville every day, I left often enough that having a car was necessary.
+I would usually go shopping in Paris, I had meetings about twice a month in Mount Pleasant, and would go to Gilmer about once every six weeks.
+None of those places would have been accessible without a car.
+I believe there was a shuttle for people living in Clarksville that worked at the Tyson factory near Paris, but there was nothing for the average person.
+Even traveling around the town of Clarksville I usually drove.
+The one time I tried walking around town I had several locals tell me that I really shouldn’t be walking out and about, and I wasn’t about to take any risks.&lt;/p&gt;
+&lt;p&gt;Living in Shreveport, Louisiana was different than my previous experiences in large cities.
+While there, I had a car that I shared with another companionship of missionaries—although my companion and I usually had priority.
+That was because I would sometimes have to drive to the very south end of Shreveport, while my apartment was in Bossier City, on the other side of the Red River.
+Biking was theoretically possible, if I stayed close to my apartment.
+However, since most of my appointments were quite far away, I drove nearly everywhere.
+I honestly don’t remember if there was any form of transit, and I know that walking around Shreveport was discouraged by my friends that had lived there before me.
+I was grateful I had a car while living in Shreveport, because I don’t know what I would have done otherwise.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;provo-utah&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Provo, Utah&lt;/h2&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:unnamed-chunk-4&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;images/IMG_2303.jpg&#34; alt=&#34;A photo of a bus lane in Provo, Utah&#34; width=&#34;100%&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 4: A photo of a bus lane in Provo, Utah
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;After moving to Provo, Utah, I started to notice how my views on driving had changed.
+Being surrounded by cars is exhausting—a fact I didn’t realize until leaving my small town.
+I rarely made any trips within Utah Valley by car where I wasn’t at least a little frustrated with the way people drive, the number of traffic signals, or the fact that it takes twice as long to travel as far as I did back in my rural hometown.
+A 15-mile trip in the Provo area takes about 30 minutes on a good day.
+Because of all this, I tend to avoid driving when I can.
+I feel fortunate that Provo has a reliable bus system run by the &lt;a href=&#34;https://rideuta.com/&#34;&gt;Utah Transit Authority&lt;/a&gt; (UTA), and that I live within a reasonable distance of almost everywhere that I want to go.
+The main car trip that I regularly take is to my job in a nearby city.
+To get there by car takes about 25-35 minutes, depending on the day.
+Getting there by transit (which I have not yet tried) would take about an hour, according to both Transit and Google Maps.
+I can only hope that transit can continue to improve in Utah to bring more access to more people.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>

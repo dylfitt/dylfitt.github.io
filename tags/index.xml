@@ -1,42 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Notes of a Roundabout Enthusiast</title>
+    <title>Tags on Roundabout Reflections</title>
     <link>https://dylfitt.github.io/tags/</link>
-    <description>Recent content in Tags on Notes of a Roundabout Enthusiast</description>
+    <description>Recent content in Tags on Roundabout Reflections</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>dnelsonfitt@gmail.com (Dylan Fitt)</managingEditor>
     <webMaster>dnelsonfitt@gmail.com (Dylan Fitt)</webMaster>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://dylfitt.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dylfitt.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Plot</title>
-      <link>https://dylfitt.github.io/tags/plot/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <title>Bus</title>
+      <link>https://dylfitt.github.io/tags/bus/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
       <author>dnelsonfitt@gmail.com (Dylan Fitt)</author>
-      <guid>https://dylfitt.github.io/tags/plot/</guid>
+      <guid>https://dylfitt.github.io/tags/bus/</guid>
       
       <description></description>
       
     </item>
     
     <item>
-      <title>R Markdown</title>
-      <link>https://dylfitt.github.io/tags/r-markdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <title>Car</title>
+      <link>https://dylfitt.github.io/tags/car/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
       <author>dnelsonfitt@gmail.com (Dylan Fitt)</author>
-      <guid>https://dylfitt.github.io/tags/r-markdown/</guid>
+      <guid>https://dylfitt.github.io/tags/car/</guid>
       
       <description></description>
       
     </item>
     
     <item>
-      <title>Regression</title>
-      <link>https://dylfitt.github.io/tags/regression/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <title>Leaflet</title>
+      <link>https://dylfitt.github.io/tags/leaflet/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
       <author>dnelsonfitt@gmail.com (Dylan Fitt)</author>
-      <guid>https://dylfitt.github.io/tags/regression/</guid>
+      <guid>https://dylfitt.github.io/tags/leaflet/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Transportation</title>
+      <link>https://dylfitt.github.io/tags/transportation/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <author>dnelsonfitt@gmail.com (Dylan Fitt)</author>
+      <guid>https://dylfitt.github.io/tags/transportation/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Walking</title>
+      <link>https://dylfitt.github.io/tags/walking/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <author>dnelsonfitt@gmail.com (Dylan Fitt)</author>
+      <guid>https://dylfitt.github.io/tags/walking/</guid>
       
       <description></description>
       
